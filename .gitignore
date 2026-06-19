@@ -1,0 +1,16 @@
+# Compiled binary
+server
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Docs (не относятся к коду)
+*.docx
+*.txt
